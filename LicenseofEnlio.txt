@@ -1,6 +1,6 @@
 License of Enlio
 
-Copyright © Daniel, Enlio 2026
+Copyright © Boss, Enlio 2026
 
 This license can be used by anyone who wants to apply the following rules to their project:
 
